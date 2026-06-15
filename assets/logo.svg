@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Dafix">
+  <defs>
+    <linearGradient id="dfxg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="0.55" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="44" height="44" rx="13" fill="url(#dfxg)"/>
+  <path d="M16 13h7.5c6.2 0 10.5 4.4 10.5 11s-4.3 11-10.5 11H16V13Zm6.2 17.6c3.6 0 6-2.6 6-6.6s-2.4-6.6-6-6.6h-1.8v13.2h1.8Z" fill="#fff"/>
+  <circle cx="34" cy="15" r="3.4" fill="#fff" opacity="0.92"/>
+</svg>
