@@ -1,5 +1,5 @@
 /* ============================================================
-   ServiHub — Área do Cliente
+   DaFix — Área do Cliente
    script.js — Vanilla JavaScript (ES6+)
 
    Módulos:
