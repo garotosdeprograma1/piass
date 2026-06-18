@@ -607,10 +607,6 @@ ul, ol { list-style: none; }
 .order-card__price { font-weight: 700; font-size: 13px; color: var(--text); }
 .order-card__date { font-size: 11px; color: var(--text-soft); display: flex; align-items: center; gap: 4px; }
 
-/* ====== AGENDA GRID ====== */
-.grid--agenda { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; }
-@media (max-width: 1024px) { .grid--agenda { grid-template-columns: 1fr; } }
-
 /* ====== 22. CALENDAR ====== */
 .calendar { background: var(--bg-elev); border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 20px; }
 .calendar__head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; flex-wrap: wrap; gap: 10px; }
