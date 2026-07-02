@@ -53,3 +53,16 @@ INSERT INTO funcionario (nome, CPF, email, telefone, senha, especialidade) VALUE
 ('Gustavo Marques Ferreira', '912.441.332-04', 'gustavo.marques.ferreira51@gmail.com', '(81) 96124-7741', 'deus123', 'Instalação de Suporte de TV'),
 ('Larissa Machado Oliveira', '412.551.993-61', 'larissa.machado.oliveira29@gmail.com', '(19) 97125-8841', 'mestre!', 'Pequenos reparos domésticos'),
 ('Felipe Andrade Carvalho', '221.994.331-07', 'felipe.andrade.carvalho41@gmail.com', '(21) 99124-3315', 'chefe01', 'Pintura de parede (cm²)');
+
+INSERT INTO os (id_cliente, valort, data, local, descricao) VALUES
+('1','R$90,00','19/05/2024','Rua Almirante Barroso','Atendimento dentro do prazo.'),
+('2','R$500,00','14/11/2021','Avenida Jorge Schimmelpfeng','Trabalho limpo e organizado.'),
+('3','R$350,00','22/07/2018','Avenida Brasil','Muito satisfeito com o resultado.'),
+('4','R$90,00','05/01/2020','Rua Almirante Barroso','Trabalho limpo e organizado.'),
+('5','R$80,00','05/01/2020','Avenida Brasil','Atendimento dentro do prazo.'),
+('6','R$500,00','19/05/2024','Avenida Brasil','Profissional atencioso.'),
+('7','R$500,00','15/03/2015','Avenida das Cataratas','Muito satisfeito com o resultado.'),
+('8','R$500,00','22/07/2018','Rua Almirante Barroso','Profissional atencioso.'),
+('9','R$350,00','19/05/2024','Avenida Juscelino Kubitscheck','Serviço excelente e rápido.'),
+('10','R$175,00','14/11/2021','Avenida Brasil','Trabalho limpo e organizado.'),
+('11','R$250,00','30/08/2023','Avenida Brasil','Atendimento no prazo.');
